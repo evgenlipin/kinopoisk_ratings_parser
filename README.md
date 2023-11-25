@@ -12,7 +12,7 @@ This program allows you to parse and analyze movie ratings from the Kinopoisk we
 3. Install the necessary libraries by running the command `pip install -r requirements.txt`.
 4. Add cookies from the KinoPoisk website (important!)without logging into your account in the variable `string_cookies` in the file `cookies_file`.
 
-![Imgur](https://imgur.com/c6pbjdn)
+![Imgur](https://imgur.com/c6pbjdn.png)
 5. Add to the variable `numer_user` from the address bar on the KinoPoisk profile website in the file `cookies_file`.
 
 ![Imgur](https://i.imgur.com/sVP2aRq.png)
@@ -30,7 +30,7 @@ This program allows you to parse and analyze movie ratings from the Kinopoisk we
 3. Установите необходимые библиотеки, выполнив команду `pip install -r requirements.txt`.
 4. Добавьте cookies с сайта КиноПоиск (важно!)без входа в свой аккаунт в переменную `sting_cookies` в файле `cookies_file`.
 
-![Imgur](https://imgur.com/c6pbjdn)
+![Imgur](https://imgur.com/c6pbjdn.png)
 5. Добавьте в переменную `numer_user` из адресной строки на сайте профиля КиноПоиск  в файле `cookies_file`.
 
 ![Imgur](https://i.imgur.com/sVP2aRq.png)
