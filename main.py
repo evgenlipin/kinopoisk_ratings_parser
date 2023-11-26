@@ -80,7 +80,7 @@ def main():
     raw_cookies = sting_cookies
     cookies = format_cookies(raw_cookies) #withour cookies won't work multiple responses
     page_num = 1
-    with open('data.csv', 'a', newline='') as csvfile:
+    with open('data.csv', 'a', newline='', encoding='utf-8') as csvfile:
         fieldnames=["Num", "Date", "Name",  "NameRus", "Rating_10", "Rating", 'Year', 'Duration', 'Type']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
